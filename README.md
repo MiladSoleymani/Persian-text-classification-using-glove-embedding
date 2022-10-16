@@ -1,4 +1,4 @@
-# Persian-text-classification-using-GloVe-embedding
+# Persian text classification using GloVe embedding
 
 In this repository, I have prepared a Jupyter notebook to classify ten classes of Persian text datasets using GloVe embedding. Also, I used some well-known tricks to prepare datasets that can be used for other projects. 
 
